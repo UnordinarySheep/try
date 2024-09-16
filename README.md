@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f2ebde388ab91919bf2dab09eed870d3bf0afde4525d1c9df2c770d85b55c6a3
-size 327
+# Obsidian math notes
+
+> These are my discrete math notes exported from obsidian
+
+- Download the sources from here: **[here](https://github.com/dgudim2/obsidian_vault)** 
+- Download additional files (.pdf, .pptx, etc.) files from **[here](https://drive.google.com/drive/folders/1pPiUM_cAdwrlmvRaVHOO36vb2jUFaGFU?usp=sharing)**
